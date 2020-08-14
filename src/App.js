@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import './navigation.css'
 import {BrowserRouter, Link, Switch, Route} from 'react-router-dom';
 
 function App() {
